@@ -1,0 +1,11 @@
+{
+  "name": "@kiran-jaiswal/resume",
+  "version": "1.0.0",
+  "description": "CLI to display Kiran Jaiswal's resume in terminal",
+  "bin": {
+    "kiran-jaiswal-resume": "./index.js"
+  },
+  "preferGlobal": true,
+  "author": "Kiran Jaiswal",
+  "license": "MIT"
+}
